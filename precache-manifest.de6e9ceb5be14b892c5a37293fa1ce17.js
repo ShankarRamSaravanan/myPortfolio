@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eef896681c5ebb9d68e40ddb47d80f93",
+    "revision": "3cb6db9f2b4e2304e6eb1039ee50ba73",
     "url": "/myPortfolio.git/index.html"
   },
   {
-    "revision": "85d2ae510a717e0fd8eb",
-    "url": "/myPortfolio.git/static/css/main.2ed3a574.chunk.css"
+    "revision": "eb1dfe21e3dd7bc76afd",
+    "url": "/myPortfolio.git/static/css/main.a412f235.chunk.css"
   },
   {
-    "revision": "801db6b8573e5e5c0bdc",
-    "url": "/myPortfolio.git/static/js/2.3df64f54.chunk.js"
+    "revision": "948301bc8e9433676a63",
+    "url": "/myPortfolio.git/static/js/2.1517aa9e.chunk.js"
   },
   {
-    "revision": "85d2ae510a717e0fd8eb",
-    "url": "/myPortfolio.git/static/js/main.6c8818ed.chunk.js"
+    "revision": "60f6bf9e100e456690e9ab6c9a37bfc2",
+    "url": "/myPortfolio.git/static/js/2.1517aa9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "338d4bc95824d78850f7",
-    "url": "/myPortfolio.git/static/js/runtime~main.cd51a686.js"
+    "revision": "eb1dfe21e3dd7bc76afd",
+    "url": "/myPortfolio.git/static/js/main.cf04bdb5.chunk.js"
+  },
+  {
+    "revision": "2a3e37dc30a6ea74d9bd",
+    "url": "/myPortfolio.git/static/js/runtime-main.985a51a9.js"
   },
   {
     "revision": "9b84dad7ee4cad349956ae0a808ddd80",

@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/myPortfolio.git/static/css/main.2ed3a574.chunk.css",
-    "main.js": "/myPortfolio.git/static/js/main.6c8818ed.chunk.js",
-    "main.js.map": "/myPortfolio.git/static/js/main.6c8818ed.chunk.js.map",
-    "runtime~main.js": "/myPortfolio.git/static/js/runtime~main.cd51a686.js",
-    "runtime~main.js.map": "/myPortfolio.git/static/js/runtime~main.cd51a686.js.map",
-    "static/js/2.3df64f54.chunk.js": "/myPortfolio.git/static/js/2.3df64f54.chunk.js",
-    "static/js/2.3df64f54.chunk.js.map": "/myPortfolio.git/static/js/2.3df64f54.chunk.js.map",
+    "main.css": "/myPortfolio.git/static/css/main.a412f235.chunk.css",
+    "main.js": "/myPortfolio.git/static/js/main.cf04bdb5.chunk.js",
+    "main.js.map": "/myPortfolio.git/static/js/main.cf04bdb5.chunk.js.map",
+    "runtime-main.js": "/myPortfolio.git/static/js/runtime-main.985a51a9.js",
+    "runtime-main.js.map": "/myPortfolio.git/static/js/runtime-main.985a51a9.js.map",
+    "static/js/2.1517aa9e.chunk.js": "/myPortfolio.git/static/js/2.1517aa9e.chunk.js",
+    "static/js/2.1517aa9e.chunk.js.map": "/myPortfolio.git/static/js/2.1517aa9e.chunk.js.map",
     "index.html": "/myPortfolio.git/index.html",
-    "precache-manifest.fbe71dcdf72030a8841d329a4a6a7839.js": "/myPortfolio.git/precache-manifest.fbe71dcdf72030a8841d329a4a6a7839.js",
+    "precache-manifest.de6e9ceb5be14b892c5a37293fa1ce17.js": "/myPortfolio.git/precache-manifest.de6e9ceb5be14b892c5a37293fa1ce17.js",
     "service-worker.js": "/myPortfolio.git/service-worker.js",
-    "static/css/main.2ed3a574.chunk.css.map": "/myPortfolio.git/static/css/main.2ed3a574.chunk.css.map",
+    "static/css/main.a412f235.chunk.css.map": "/myPortfolio.git/static/css/main.a412f235.chunk.css.map",
+    "static/js/2.1517aa9e.chunk.js.LICENSE.txt": "/myPortfolio.git/static/js/2.1517aa9e.chunk.js.LICENSE.txt",
     "static/media/Apple.png": "/myPortfolio.git/static/media/Apple.9b84dad7.png",
     "static/media/HTS.png": "/myPortfolio.git/static/media/HTS.f6493e6f.png",
     "static/media/JS.png": "/myPortfolio.git/static/media/JS.0cded3a3.png",
@@ -30,5 +31,11 @@
     "static/media/react.png": "/myPortfolio.git/static/media/react.232cc492.png",
     "static/media/translation.png": "/myPortfolio.git/static/media/translation.8c60dcfd.png",
     "static/media/weather.png": "/myPortfolio.git/static/media/weather.f8d6600d.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.985a51a9.js",
+    "static/js/2.1517aa9e.chunk.js",
+    "static/css/main.a412f235.chunk.css",
+    "static/js/main.cf04bdb5.chunk.js"
+  ]
 }
